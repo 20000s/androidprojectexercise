@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78844185-5f68-4a06-87b7-ad278c53673a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1orYb8rfGiK1SxZw5urOX1oyP4g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="show.do.not.copy.http.proxy.settings.to.gradle" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78844185-5f68-4a06-87b7-ad278c53673a" name="Default Changelist" comment="" />
+      <created>1614046245130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614046245130</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="477" y="345" key="#PSD" timestamp="1614046964956">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="477" y="345" key="#PSD/0.0.1920.1040@0.0.1920.1040" timestamp="1614046964956" />
+    <state x="859" y="503" key="#Vim_Emulation" timestamp="1614046937442">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="859" y="503" key="#Vim_Emulation/0.0.1920.1040@0.0.1920.1040" timestamp="1614046937442" />
+    <state x="540" y="341" width="1327" height="515" key="IDE.errors.dialog" timestamp="1614046762481">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="341" width="1327" height="515" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614046762481" />
+  </component>
+</project>
